@@ -1,6 +1,11 @@
 # Model-free_DRL_LSTM_on_POMDP_with_LDGBA
 
-## Folder 'simple go_to_goal gridworld':
+## The code is originally from: 
+***
+***Bozkurt, A. K., Wang, Y., Zavlanos, M. M., & Pajic, M. (2020, May). Control synthesis from linear temporal logic specifications using model-free reinforcement learning. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 10349-10355). IEEE.***
+***
+## Usage:
+### Folder 'simple go_to_goal gridworld':
 
 1. File 'LSTM and DNN' is the go_to_goal example using either LSTM or DNN.
 
@@ -22,9 +27,9 @@
 
 
 
-## Folder 'Task 1 (10 by 10 gridworld)':
+### Folder 'Task 1 (10 by 10 gridworld)':
 1. File '10 by 10 gridworld (p 1.0)' is the gridworld example of **static** event.
-## Folder 'Task 2 (10 by 10 gridworld)':
+### Folder 'Task 2 (10 by 10 gridworld)':
 1. File '10 by 10 gridworld (p 0.9)' is the gridworld example of **dynamic** event.
 2. File '10 by 10 gridworld (p 1.0)' is the gridworld example of **static** event.
 
