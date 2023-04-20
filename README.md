@@ -1,6 +1,6 @@
 # Model-free_DRL_LSTM_on_POMDP_with_LDGBA
 
-## The code is originally from: 
+## The code is modified from: 
 ***
 ***Bozkurt, A. K., Wang, Y., Zavlanos, M. M., & Pajic, M. (2020, May). Control synthesis from linear temporal logic specifications using model-free reinforcement learning. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 10349-10355). IEEE.***
 ***
