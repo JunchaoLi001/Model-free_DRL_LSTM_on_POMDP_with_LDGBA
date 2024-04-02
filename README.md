@@ -1,8 +1,8 @@
 # Model-free_DRL_LSTM_on_POMDP_with_LDGBA
 
-### Consider cite this article if you find this code is helpful
+### Consider cite this article if you find this code is helpful:
 ***
-***Li, J., Cai, M., Wang, Z., & Xiao, S. (2023). Model-based motion planning in POMDPs with temporal logic specifications. Advanced Robotics, 37(14), 871–886. https://doi.org/10.1080/01691864.2023.2226191***
+Li, J., Cai, M., Wang, Z., & Xiao, S. (2023). Model-based motion planning in POMDPs with temporal logic specifications. Advanced Robotics, 37(14), 871–886. https://doi.org/10.1080/01691864.2023.2226191
 ***
 
 ## Usage:
