@@ -5,9 +5,6 @@
 ***Li, J., Cai, M., Wang, Z., & Xiao, S. (2023). Model-based motion planning in POMDPs with temporal logic specifications. Advanced Robotics, 37(14), 871–886. https://doi.org/10.1080/01691864.2023.2226191***
 ***
 
-### The code is modified from: 
-Bozkurt, A. K., Wang, Y., Zavlanos, M. M., & Pajic, M. (2020, May). Control synthesis from linear temporal logic specifications using model-free reinforcement learning. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 10349-10355). IEEE
-
 ## Usage:
 ### Folder 'simple go_to_goal gridworld':
 
@@ -52,3 +49,6 @@ Bozkurt, A. K., Wang, Y., Zavlanos, M. M., & Pajic, M. (2020, May). Control synt
 ## Installation:
   - Python 3.5+
   - Tensorflow 2.7.0
+
+### The code is modified from: 
+Bozkurt, A. K., Wang, Y., Zavlanos, M. M., & Pajic, M. (2020, May). Control synthesis from linear temporal logic specifications using model-free reinforcement learning. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 10349-10355). IEEE
