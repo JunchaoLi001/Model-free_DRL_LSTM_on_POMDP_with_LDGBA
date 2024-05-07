@@ -139,13 +139,13 @@ class ControlSynthesis:
         output_state = [output_row, output_col]
         return output_state
     
-    # one hot encoding, output encoded [label or q_state]; only record different label, q_state
+    # one hot encoding, output one-hot-encoded [label] or [q_state]
     def label_q_encoding(self, label_q):
         output_label_q = np.zeros(self.num_label)
         output_label_q[label_q]=1.
         return output_label_q
     
-    # convert label
+    # convert label, convert the label to index. (only the different labels or qs are appended, please see "Append the NEXT (state) & (q state/label), as the sequences")
     def convert_label(self, state):
         label_array = self.pomdp.label[state[2],state[3]]
         label = 0
@@ -217,6 +217,7 @@ class ControlSynthesis:
             next_state_sequence.append(obsv_state_input)
             if len(next_state_sequence) > state_sequence_size:
                 next_state_sequence.pop(0)
+            # Append the different labels or qs
             if not np.array_equal(np.array(obsv_label_input), next_label_sequence[-1]):
                 next_label_sequence.append(obsv_label_input)
                 next_label_sequence.pop(0)
