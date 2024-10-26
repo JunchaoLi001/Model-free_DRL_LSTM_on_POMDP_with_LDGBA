@@ -1,6 +1,6 @@
 # Model-free_DRL_LSTM_on_POMDP_with_LDGBA
 
-### Consider cite this article if you find this code is helpful:
+### Consider citing the related article if you find this code helpful:
 ```
 @article{li2024model,
   title={Model-free reinforcement learning for motion planning of autonomous agents with complex tasks in partially observable environments},
