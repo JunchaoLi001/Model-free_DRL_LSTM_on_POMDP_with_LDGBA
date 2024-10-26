@@ -1,9 +1,29 @@
 # Model-free_DRL_LSTM_on_POMDP_with_LDGBA
 
 ### Consider cite this article if you find this code is helpful:
-***
-Li, J., Cai, M., Wang, Z., & Xiao, S. (2023). Model-based motion planning in POMDPs with temporal logic specifications. Advanced Robotics, 37(14), 871–886. https://doi.org/10.1080/01691864.2023.2226191
-***
+```
+@article{li2024model,
+  title={Model-free reinforcement learning for motion planning of autonomous agents with complex tasks in partially observable environments},
+  author={Li, Junchao and Cai, Mingyu and Kan, Zhen and Xiao, Shaoping},
+  journal={Autonomous Agents and Multi-Agent Systems},
+  volume={38},
+  number={1},
+  pages={14},
+  year={2024},
+  publisher={Springer}
+}
+```
+
+```
+@inproceedings{xiao2024model,
+  title={Model-Free Motion Planning of Complex Tasks Subject to Ethical Constraints},
+  author={Xiao, Shaoping and Li, Junchao and Wang, Zhaoan},
+  booktitle={International Conference on Human-Computer Interaction},
+  pages={116--129},
+  year={2024},
+  organization={Springer}
+}
+```
 
 ## Usage:
 ### Folder 'simple go_to_goal gridworld':
