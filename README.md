@@ -72,3 +72,6 @@
 
 ### The code is modified from: 
 Bozkurt, A. K., Wang, Y., Zavlanos, M. M., & Pajic, M. (2020, May). Control synthesis from linear temporal logic specifications using model-free reinforcement learning. In 2020 IEEE International Conference on Robotics and Automation (ICRA) (pp. 10349-10355). IEEE
+
+### Acknowledgements:
+This material is based upon work supported by the National Science Foundation under Grant Number 2226936. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
